@@ -1,0 +1,55 @@
+{
+  "id": 2,
+  "createdAt": {
+    "year": 2024,
+    "monthValue": 1,
+    "dayOfMonth": 27,
+    "hour": 15,
+    "minute": 3,
+    "second": 56,
+    "nano": 998829000,
+    "dayOfWeek": "SATURDAY",
+    "dayOfYear": 27,
+    "month": "JANUARY",
+    "chronology": {
+      "id": "ISO",
+      "calendarType": "iso8601"
+    }
+  },
+  "updatedAt": {
+    "year": 2024,
+    "monthValue": 1,
+    "dayOfMonth": 27,
+    "hour": 15,
+    "minute": 4,
+    "second": 32,
+    "nano": 5419000,
+    "dayOfWeek": "SATURDAY",
+    "dayOfYear": 27,
+    "month": "JANUARY",
+    "chronology": {
+      "id": "ISO",
+      "calendarType": "iso8601"
+    }
+  },
+  "name": "Aghasi",
+  "lastname": "Khachatryan",
+  "email": "mailtokhachatryan96@gmail.com",
+  "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+  "birthday": {
+    "year": 2024,
+    "month": "JANUARY",
+    "monthValue": 1,
+    "dayOfMonth": 27,
+    "chronology": {
+      "id": "ISO",
+      "calendarType": "iso8601"
+    },
+    "dayOfWeek": "SATURDAY",
+    "leapYear": true,
+    "dayOfYear": 27,
+    "era": "CE"
+  },
+  "code": "673435",
+  "verified": true
+}
